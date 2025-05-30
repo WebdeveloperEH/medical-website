@@ -1,0 +1,505 @@
+/*============================================================================
+			RESPONSIVE CSS WITH MEDIA 
+=============================================================================*/
+/*=============  MEDIA 1400px   =============*/
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .main-bnr-text {
+    padding: 14%;
+    padding-top: 20%;
+  }
+  .department .tab-content .fact {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .department .tab-content .tittle {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  .department .tab-content .tittle h2 {
+    font-size: 40px;
+    letter-spacing: 0px;
+  }
+  .department .margin-l-20 {
+    margin-left: 0px;
+  }
+  .department .btn {
+    min-width: inherit;
+  }
+}
+/*=============  MEDIA 1200px   =============*/
+@media (max-width: 1200px) {
+}
+/*=============  MEDIA 1024px   =============*/
+@media (max-width: 1024px) {
+}
+/*=============  MEDIA 992px - 1199px   =============*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .department .fact {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .department .tab-content .tittle {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .department .margin-l-20 {
+    margin-left: 0px;
+  }
+  .department .btn {
+    min-width: inherit;
+  }
+  .department .btn {
+    min-width: inherit;
+    padding: 12px 20px;
+  }
+  .department .fact p {
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+  .department .dep-sec-nav {
+    width: 100%;
+    position: relative;
+  }
+  .department .nav-tabs li {
+    float: left;
+    width: 14.2%;
+  }
+  .department .nav-tabs li a {
+    font-size: 13px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    border: none;
+  }
+  .department .nav-tabs {
+    padding: 0px;
+    padding-top: 0px;
+  }
+  .department .nav-tabs li.active a:before {
+    top: auto;
+    left: 0px;
+    right: 0px;
+    display: none;
+    content: "\f0d7";
+  }
+  .department .tab-content {
+    margin-top: -5px;
+  }
+  .department .dep-sec-img {
+    width: 50%;
+  }
+  .department .dep-sec-txt {
+    width: 50%;
+  }
+  .department .fact li {
+    width: 100%;
+  }
+  .department .tab-content .tittle h2 {
+    font-size: 36px;
+  }
+  .about-us h2 {
+    width: 100%;
+  }
+  .header-2 nav li a {
+    padding: 0px 10px;
+  }
+  .depart-style-2 .nav-tabs li {
+    width: 16.66666%;
+  }
+}
+/*=============  MEDIA 768px - 991px   =============*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .department .fact {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .time-line-sec:before {
+    display: none;
+  }
+  .about-us h2 {
+    width: 100%;
+  }
+  .department .tab-content .tittle {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .department .margin-l-20 {
+    margin-left: 0px;
+  }
+  .department .btn {
+    min-width: inherit;
+  }
+  .department .btn {
+    min-width: inherit;
+    padding: 12px 20px;
+  }
+  .department .fact p {
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+  .department .dep-sec-nav {
+    width: 100%;
+    position: relative;
+  }
+  .department .nav-tabs li {
+    float: left;
+    width: 14.2%;
+  }
+  .department .nav-tabs li a {
+    font-size: 13px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    border: none;
+  }
+  .department .nav-tabs {
+    padding: 0px;
+    padding-top: 0px;
+  }
+  .department .nav-tabs li.active a:before {
+    top: auto;
+    left: 0px;
+    right: 0px;
+    display: none;
+    content: "\f0d7";
+  }
+  .department .tab-content {
+    margin-top: -5px;
+  }
+  .department .dep-sec-img {
+    width: 50%;
+  }
+  .department .dep-sec-txt {
+    width: 50%;
+  }
+  .department .fact li {
+    width: 100%;
+  }
+  .department .tab-content .tittle h2 {
+    font-size: 36px;
+  }
+  .blog {
+    text-align: center;
+  }
+  .blog .text-section {
+    min-height: inherit;
+    padding-bottom: 20px;
+  }
+  .tittle h2 {
+    width: 100%;
+    text-align: center;
+  }
+  header nav li a {
+    padding: 30px 7px;
+    font-size: 14px;
+    padding-top: 40px;
+  }
+  .header-2 nav li a {
+    padding: 0px 6px;
+  }
+  .depart-style-2 .nav-tabs li {
+    width: 16.66666%;
+  }
+  .home-3 .bnr-info {
+    width: 100%;
+    padding: 0px;
+  }
+  .home-3 .bnr-info h2 {
+    margin-top: 25%;
+  }
+  .intro .intro-in {
+    width: 100%;
+  }
+  .intro h3 {
+    width: 100%;
+  }
+  #prople-says .testi {
+    width: 100%;
+  }
+  .contact-info li {
+    margin-bottom: 30px;
+  }
+
+  .main-bnr-text {
+    padding: 50px;
+    padding-top: 20%;
+  }
+  #counters ul li {
+    margin-bottom: 30px;
+  }
+  .depart-sec ul li .in-dert {
+    padding-top: 20%;
+  }
+  .doctor-team .tittle h2 {
+    width: 100%;
+  }
+}
+/*=============  MEDIA 767px   =============*/
+@media (max-width: 767px) {
+  .depart-sec ul li .in-dert {
+    padding-top: 20%;
+  }
+  .ownmenu > li.showhide span.icon {
+    color: #3dc5df;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+  }
+  .shop-page .items li.col-sm-4 {
+    width: 50%;
+    float: left;
+  }
+  .shop-page .items li img {
+    width: 100%;
+  }
+  .about-us h2 {
+    width: 100%;
+  }
+  .crosal-slide {
+    width: 100%;
+  }
+  #services .padding-r-80 {
+    padding-right: 15px !important;
+  }
+  .time-line-sec:before {
+    display: none;
+  }
+  .ownmenu > li.showhide {
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    line-height: 60px;
+    height: 60px;
+  }
+  .navbar-fixed-top {
+    position: relative;
+    display: block;
+  }
+  .webimenu ul .sub-menu > a:before {
+    content: "\f105";
+    margin: 0;
+    font-family: "FontAwesome";
+    position: absolute;
+    right: 10px;
+  }
+
+  .main-bnr-text h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  header.header-2 nav {
+    padding-top: 0px;
+    text-align: left;
+    background: #fff;
+  }
+  .header-2 nav li a {
+    padding: 10px 20px;
+  }
+  header .logo {
+    float: left;
+  }
+  header nav {
+    float: none;
+    width: 100%;
+  }
+  .webimenu {
+    width: 100%;
+    min-height: 10px;
+  }
+  .menu-toggle {
+    position: absolute;
+    top: -55px;
+    right: 0px;
+  }
+  header nav .ownmenu .indicator {
+    display: block;
+  }
+  header nav li a {
+    display: inline-block;
+    width: 100%;
+    float: none;
+  }
+  header .nav-img {
+    display: none !important;
+  }
+  .ownmenu > li.showhide span {
+    line-height: 60px;
+    display: inline-block;
+    width: 100%;
+  }
+  .ownmenu > li.showhide span.title {
+    margin: 0px;
+  }
+  .ownmenu > li > a {
+    padding: 10px 0;
+  }
+  .ownmenu .indicator {
+    display: block;
+  }
+  header .ownmenu ul.dropdown {
+    background: none;
+  }
+  .department .fact {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .department .tab-content .tittle {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .department .margin-l-20 {
+    margin-left: 0px;
+  }
+  .department .btn {
+    min-width: inherit;
+  }
+  .department .btn {
+    min-width: inherit;
+    padding: 12px 20px;
+  }
+  .department .fact p {
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+  .department .dep-sec-nav {
+    width: 100%;
+    position: relative;
+  }
+  .department .nav-tabs li {
+    float: left;
+    width: 25%;
+  }
+  .department .nav-tabs li a {
+    font-size: 13px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    border: none;
+  }
+  .department .nav-tabs {
+    padding: 0px;
+    padding-top: 0px;
+  }
+  .department .nav-tabs li.active a:before {
+    top: auto;
+    left: 0px;
+    right: 0px;
+    display: none;
+    content: "\f0d7";
+  }
+  .department .tab-content {
+    margin-top: -5px;
+  }
+  .department .dep-sec-img {
+    width: 100%;
+  }
+  .department .dep-sec-txt {
+    width: 100%;
+  }
+  .department .fact li {
+    width: 50%;
+    float: left;
+  }
+  .department .tab-content {
+    min-height: inherit;
+    padding-bottom: 50px;
+  }
+  .department .tab-content .tittle h2 {
+    font-size: 36px;
+  }
+  .department .img-bg-dep {
+    position: relative;
+    height: 400px;
+  }
+  .tittle {
+    margin-bottom: 20px;
+  }
+  .tittle h2 {
+    width: 100%;
+    font-size: 30px;
+  }
+  #founder .padding-r-80 {
+    padding: 0px 15px !important;
+  }
+  .main-bnr-text {
+    padding: 0px 30px;
+    padding-top: 10%;
+  }
+  #why-choose ul {
+    padding-left: 15px;
+  }
+  .blog {
+    text-align: center;
+  }
+  .tittle h2 {
+    text-align: center;
+  }
+  .testimonials:before {
+    height: 100%;
+  }
+  .intro .intro-in {
+    width: 100%;
+  }
+  .intro h3 {
+    width: 100%;
+  }
+  .testimonials .padding-l-60 {
+    padding-left: 15px;
+  }
+  .testimonials .texti-slide {
+    margin-top: 30px;
+  }
+  .testimonials .text {
+    margin-top: 20px;
+  }
+  .contact-info li {
+    float: left;
+    width: 50%;
+    margin-bottom: 30px;
+    min-height: 150px;
+  }
+  footer .latest-tweet {
+    text-align: center;
+  }
+  footer .date {
+    text-align: center;
+  }
+  .post-img img {
+    width: 100%;
+  }
+  .post-img {
+    width: 100%;
+  }
+  .text-section {
+    min-height: inherit;
+    padding-bottom: 30px;
+  }
+  footer .text-right {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .depart-style-2 .nav-tabs li {
+    width: 33.333%;
+  }
+  .top-bar {
+    height: auto;
+    padding-bottom: 10px;
+  }
+}
+/*=============  MEDIA 600px   =============*/
+@media (max-width: 640px) {
+}
+/*=============  MEDIA 540px   =============*/
+@media (max-width: 540px) {
+}
+/*=============  MEDIA 400px   =============*/
+@media (max-width: 440px) {
+  .contact-info li {
+    width: 100%;
+  }
+  .shop-page .items li.col-sm-4 {
+    width: 100%;
+  }
+}
+/*=============  MEDIA 320px   =============*/
+@media (max-width: 320px) {
+}
